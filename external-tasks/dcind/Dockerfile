@@ -1,5 +1,5 @@
 # Inspired by https://github.com/meAmidos/dcind
-FROM alpine:3.10
+FROM alpine:3.11
 LABEL maintainer="Robin Huiser <robin@rdcp.pt>"
 
 ENV DOCKER_VERSION=18.09.8 \
